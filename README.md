@@ -16,13 +16,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 * **CSS3** (ou Tailwind CSS / Styled Components se você usou)
 
 ---
-
-## ⚙️ Como Executar o Projeto Localmente
-
-Siga os passos abaixo para clonar e rodar a aplicação na sua máquina:
-
-### 1. Clonar o Repositório
-```bash
-git remote add origin https://github.com/luanajulia/BlogReact.git
-
-cd meu-blog
